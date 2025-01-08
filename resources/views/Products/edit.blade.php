@@ -12,10 +12,10 @@
         <!-- Header -->
         <div class="row mb-4">
             <div class="col-lg-6 text-left">
-                <h1>Edit Product</h1>
+                <h2>Edit Product</h2>
             </div>
             <div class="col-lg-6 text-right">
-                <a href="{{ route('products.index') }}" class="btn btn-primary btn-lg">Back to Products</a>
+                <a href="{{ route('products.index') }}" class="btn btn-primary">Back to Products</a>
             </div>
         </div>
 
